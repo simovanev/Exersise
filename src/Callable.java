@@ -1,5 +1,5 @@
 public interface Callable {
-    void call(String number);
+    String call(String number);
 
 
 }

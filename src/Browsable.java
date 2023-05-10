@@ -1,3 +1,3 @@
 public interface Browsable {
-    void browse(String url);
+    String browse(String url);
 }
